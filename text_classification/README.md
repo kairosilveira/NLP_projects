@@ -1,6 +1,6 @@
 # Text Classification with DistilBERT
 
-![DistilBERT](distilbert_image.jpg)
+![DistilBERT](wordcloud.png)
 
 This notebook demonstrates text classification using a fine-tuned DistilBERT model from the Hugging Face Transformers library. Through exploratory data analysis, feature extraction, and model fine-tuning, significant improvements in accuracy were achieved.
 
